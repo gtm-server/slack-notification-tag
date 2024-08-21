@@ -46,7 +46,7 @@ ___TEMPLATE_PARAMETERS___
         ]
       }
     ],
-    "help": "Set you Slack webhook url. If you don\u0027t know how to get it, you can \u003ca href\u003d\"https://api.slack.com/tutorials/slack-apps-hello-world\" target\u003d\"_blank\"\u003efollow this guide\u003c/a\u003e to obtain it."
+    "help": "Set your Slack webhook url. If you don\u0027t know how to get it, you can \u003ca href\u003d\"https://api.slack.com/messaging/webhooks\" target\u003d\"_blank\"\u003efollow this guide\u003c/a\u003e to obtain it."
   },
   {
     "type": "TEXT",
